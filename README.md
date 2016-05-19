@@ -10,6 +10,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 ## Writing components
 * [Components examples](https://github.com/matteofigus/oc-components-examples) - OC Components examples
 * [Oh See](https://github.com/opentable/oh-see) - Testing tool for visually testing OC components in production before publishing
+* [Workshop](https://github.com/matteofigus/oc-workshop) - A workshop to learn how to write OC components
 
 ## Clients
 
