@@ -20,6 +20,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 ## Registry Plugins
 
+* [Hobknob plugin](https://github.com/opentable/oc-hobknob) - Plugin for integrating [Hobknob](https://github.com/opentable/hobknob)
 * [LDAP auth](https://github.com/andyroyle/oc-auth-ldap) - Plugin to add LDAP authentication for publishing
 * [Registry Warmup](https://github.com/matteofigus/oc-warmup) - Plugin for warming up a registry instance
 
