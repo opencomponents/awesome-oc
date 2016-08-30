@@ -11,6 +11,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 * [Components examples](https://github.com/matteofigus/oc-components-examples) - OC Components examples
 * [Oh See](https://github.com/opentable/oh-see) - Testing tool for visually testing OC components in production before publishing
 * [OC Chrome plugin](https://github.com/opentable/oc-debug-extension) - Chrome plugin to live debug OC components
+* [OC webpack](https://github.com/antwhite/oc-webpack) - write ES6 + modular Javascript for OC components
 * [Workshop](https://github.com/matteofigus/oc-workshop) - A workshop to learn how to write OC components
 
 ## Clients
@@ -19,13 +20,13 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 * [Ruby client](https://rubygems.org/gems/opencomponents) - ruby client in Ruby gems
 * [Rails plugin](https://rubygems.org/gems/opencomponents-rails) - plugin for Ruby on Rails
 
-## Registry Plugins
+## Registry Plugins/Utilities
 
 * [Hobknob plugin](https://github.com/opentable/oc-hobknob) - Plugin for integrating [Hobknob](https://github.com/opentable/hobknob)
 * [Statsd plugin](https://github.com/opentable/oc-statsd) - Plugin for integrating [StatsD](https://github.com/etsy/statsd)
-* [LDAP auth](https://github.com/andyroyle/oc-auth-ldap) - Plugin to add LDAP authentication for publishing
-* [OC Migrate](https://github.com/matteofigus/oc-migrate) - Tool for helping migrating between OC versions
-* [Registry Warmup](https://github.com/matteofigus/oc-warmup) - Plugin for warming up a registry instance
+* [LDAP auth](https://github.com/andyroyle/oc-auth-ldap) - Auth Plugin to add LDAP authentication for publishing
+* [OC Migrate](https://github.com/matteofigus/oc-migrate) - Utility for helping migrating between OC versions
+* [Registry Warmup](https://github.com/matteofigus/oc-warmup) - Module for warming up a registry instance
 
 ## Blogposts
 
