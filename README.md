@@ -5,12 +5,16 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 ## General
 * [OpenComponents framework](https://github.com/opentable/oc) - OpenComponents in github
-* [grunt plugin](https://github.com/opentable/grunt-oc) - OC cli grunt wrapper
+* [OpenComponents wiki](https://github.com/opentable/oc/wiki) - The documentation
+* [Gitter chat](https://gitter.im/opentable/oc) - The official chat
+* [OC at Stack Overflow](http://stackoverflow.com/tags/open-components) - Questions tagged as open-components
 
 ## Writing components
 * [Components examples](https://github.com/matteofigus/oc-components-examples) - OC Components examples
+* [OC With React](https://github.com/mattiaerre/oc-with-react) - OC + React component example
 * [Oh See](https://github.com/opentable/oh-see) - Testing tool for visually testing OC components in production before publishing
 * [OC Chrome plugin](https://github.com/opentable/oc-debug-extension) - Chrome plugin to live debug OC components
+* [grunt plugin](https://github.com/opentable/grunt-oc) - OC cli grunt wrapper
 * [OC webpack](https://github.com/antwhite/oc-webpack) - write ES6 + modular Javascript for OC components
 * [Workshop](https://github.com/matteofigus/oc-workshop) - A workshop to learn how to write OC components
 
