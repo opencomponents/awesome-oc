@@ -30,6 +30,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 * [Statsd plugin](https://github.com/opentable/oc-statsd) - Plugin for integrating [StatsD](https://github.com/etsy/statsd)
 * [LDAP auth](https://github.com/andyroyle/oc-auth-ldap) - Auth Plugin to add LDAP authentication for publishing
 * [OC Migrate](https://github.com/matteofigus/oc-migrate) - Utility for helping migrating between OC versions
+* [OC registry test](https://github.com/opentable/oc-registry-test) - An utility to test an OpenComponents Registry is setup and secured correctly
 * [Registry Warmup](https://github.com/matteofigus/oc-warmup) - Module for warming up a registry instance
 
 ## Blogposts
