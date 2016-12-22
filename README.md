@@ -12,7 +12,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 ## Components examples
 * [Components examples](https://github.com/matteofigus/oc-components-examples) - OC Components examples
 * [OC With React](https://github.com/mattiaerre/oc-with-react) - OC + React component example
-* [OC feedback form](https://github.com/mattiaerre/oc-feedback-form) - An OC component example that changes state by re-rendering multiple times
+* [OC feedback form](https://github.com/mattiaerre/oc-feedback-form) - An OC component example that shows how to implement HTTP POST
 
 ## Tools for writing/debugging components
 * [Oh See](https://github.com/opentable/oh-see) - Testing tool for visually testing OC components in production before publishing
