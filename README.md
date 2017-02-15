@@ -11,6 +11,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 ## Components examples
 * [Components examples](https://github.com/matteofigus/oc-components-examples) - OC Components examples
+* [Testing OC components](https://github.com/opentable/oc-testing) - Code examples for unit/acceptance/ui testing components
 * [OC With React](https://github.com/mattiaerre/oc-with-react) - OC + React component example
 * [OC feedback form](https://github.com/mattiaerre/oc-feedback-form) - An OC component example that shows how to implement HTTP POST
 
@@ -18,7 +19,6 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 * [Oh See](https://github.com/opentable/oh-see) - Testing tool for visually testing OC components in production before publishing
 * [OC Chrome plugin](https://github.com/opentable/oc-debug-extension) - Chrome plugin to live debug OC components
 * [grunt plugin](https://github.com/opentable/grunt-oc) - OC cli grunt wrapper
-* [OC webpack](https://github.com/antwhite/oc-webpack) - write ES6 + modular Javascript for OC components
 * [Workshop](https://github.com/matteofigus/oc-workshop) - A workshop to learn how to write OC components
 
 ## Clients
