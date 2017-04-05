@@ -28,8 +28,10 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 ## Registry Plugins/Utilities
 
+* [OpenComponents registry docker image](https://github.com/ciricihq/oc-docker)
 * [Hobknob plugin](https://github.com/opentable/oc-hobknob) - Plugin for integrating [Hobknob](https://github.com/opentable/hobknob)
 * [Statsd plugin](https://github.com/opentable/oc-statsd) - Plugin for integrating [StatsD](https://github.com/etsy/statsd)
+* [GraphQL plugin](https://github.com/opentable/oc-graphql-client) - Plugin for integrating GraphQL
 * [LDAP auth](https://github.com/andyroyle/oc-auth-ldap) - Auth Plugin to add LDAP authentication for publishing
 * [OC Migrate](https://github.com/matteofigus/oc-migrate) - Utility for helping migrating between OC versions
 * [OC registry test](https://github.com/opentable/oc-registry-test) - An utility to test an OpenComponents Registry is setup and secured correctly
@@ -42,7 +44,8 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 ## Videos
 
-* [OpenComponents at JSConf Uruguay](https://www.youtube.com/watch?v=M4OXXRdCpyQ)- by **Matteo Figus** [34:12]
+* [OpenComponents at JSConf Uruguay](https://www.youtube.com/watch?v=M4OXXRdCpyQ) - by **Matteo Figus** [34:12]
+* [Learning about OpenComponents at OpenTable](https://vimeo.com/203926042) - 3 talks by **Nick Balestra, Charles Chu, Kevin Andrews** [1:35:42]
 
 ## License
 
