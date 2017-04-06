@@ -1,7 +1,7 @@
 awesome-oc [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================
 
-A collection of awesome resources about OpenComponents (aka OC). Please read the [contributing guideline](contributing.md) if you wish to contribute.
+A collection of awesome resources about OpenComponents (aka OC). Please read the [contributing guideline](CONTRIBUTING.md) if you wish to contribute.
 
 ## General
 * [OpenComponents framework](https://github.com/opentable/oc) - OpenComponents in github
@@ -12,7 +12,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 ## Components examples
 * [Components examples](https://github.com/matteofigus/oc-components-examples) - OC Components examples
 * [Testing OC components](https://github.com/opentable/oc-testing) - Code examples for unit/acceptance/ui testing components
-* [Open Components Hub](https://github.com/mattiaerre/oc-hub) SSR, React, how to HTTP POST and many more spikes and examples w/ OpenComponents
+* [Open Components Hub](https://github.com/mattiaerre/oc-hub) - SSR, React, how to HTTP POST and many more spikes and examples w/ OpenComponents
 
 ## Tools for writing/debugging components
 * [Oh See](https://github.com/opentable/oh-see) - Testing tool for visually testing OC components in production before publishing
