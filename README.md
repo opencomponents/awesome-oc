@@ -5,12 +5,13 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 ## General
 * [OpenComponents framework](https://github.com/opentable/oc) - OpenComponents in github
+* [OpenComponents community](https://github.com/opencomponents) - OpenComponents related github projects
 * [OpenComponents wiki](https://github.com/opentable/oc/wiki) - The documentation
 * [Gitter chat](https://gitter.im/opentable/oc) - The official chat
 * [OC at Stack Overflow](http://stackoverflow.com/tags/open-components) - Questions tagged as open-components
 
 ## Components examples
-* [Components examples](https://github.com/matteofigus/oc-components-examples) - OC Components examples
+* [Components examples](https://github.com/opencomponents/oc-components-examples) - OC Components examples
 * [Testing OC components](https://github.com/opentable/oc-testing) - Code examples for unit/acceptance/ui testing components
 * [Open Components Hub](https://github.com/mattiaerre/oc-hub) - SSR, React, how to HTTP POST and many more spikes and examples w/ OpenComponents
 
@@ -18,11 +19,12 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 * [Oh See](https://github.com/opentable/oh-see) - Testing tool for visually testing OC components in production before publishing
 * [OC Chrome plugin](https://github.com/opentable/oc-debug-extension) - Chrome plugin to live debug OC components
 * [grunt plugin](https://github.com/opentable/grunt-oc) - OC cli grunt wrapper
-* [Workshop](https://github.com/matteofigus/oc-workshop) - A workshop to learn how to write OC components
+* [Workshop](https://github.com/opencomponents/oc-workshop) - A workshop to learn how to write OC components
 
 ## Clients
 
 * [Node.js client](https://www.npmjs.com/package/oc-client) - node client in npm
+* [PHP client](https://github.com/opencomponents/oc-client-php) - php client in github
 * [Ruby client](https://rubygems.org/gems/opencomponents) - ruby client in Ruby gems
 * [Rails plugin](https://rubygems.org/gems/opencomponents-rails) - plugin for Ruby on Rails
 
@@ -33,9 +35,9 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 * [Statsd plugin](https://github.com/opentable/oc-statsd) - Plugin for integrating [StatsD](https://github.com/etsy/statsd)
 * [GraphQL plugin](https://github.com/opentable/oc-graphql-client) - Plugin for integrating GraphQL
 * [LDAP auth](https://github.com/andyroyle/oc-auth-ldap) - Auth Plugin to add LDAP authentication for publishing
-* [OC Migrate](https://github.com/matteofigus/oc-migrate) - Utility for helping migrating between OC versions
+* [OC Migrate](https://github.com/opencomponents/oc-migrate) - Utility for helping migrating between OC versions
 * [OC registry test](https://github.com/opentable/oc-registry-test) - An utility to test an OpenComponents Registry is setup and secured correctly
-* [Registry Warmup](https://github.com/matteofigus/oc-warmup) - Module for warming up a registry instance
+* [Registry Warmup](https://github.com/opencomponents/oc-warmup) - Module for warming up a registry instance
 
 ## Blogposts
 
