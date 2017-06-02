@@ -49,6 +49,27 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 * [OpenComponents at JSConf Uruguay](https://www.youtube.com/watch?v=M4OXXRdCpyQ) - by **Matteo Figus** [34:12]
 * [Learning about OpenComponents at OpenTable](https://vimeo.com/203926042) - 3 talks by **Nick Balestra, Charles Chu, Kevin Andrews** [1:35:42]
 
+## Events
+
+* 2017-09-22/23 - [FrontEnd Connect 2017 - Warsaw](http://frontend-con.io/) - Breaking the frontend monolith (Nick Balestra)
+
+<details><summary>Past Events</summary>
+
+* 2017-04-19 - [Women of Silicon Valley 2017 - San Francisco](http://www.womenofsiliconvalley.com/) - OpenComponents at OpenTable (Mattia Richetto)
+* 2017-03-16 - [Cloud Conf 2017 - Torino](http://2017.cloudconf.it/) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2017-02-09 - [OpenTable Engineering Meetup - San Francisco](https://www.meetup.com/OpenTable-SF-Engineering/events/237174549/) - Build it, ship it (Nick Balestra); Growing with OC by building OT widgets (Charles Chu); Code Ownership (Kevin Andrews)
+* 2016-06-23 - [Code Slinger - London](http://www.code-slinger.com/) - OpenComponents workshop (Ant White, Maria Jankowiak, Matteo Figus)
+* 2016-04-15 - [JSConf Uruguay - Montevideo](https://jsconf.uy/) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2016-03-18 - [Agile India - Bangalore](https://confengine.com/agile-india-2016) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2015-10-30 - [O'Reilly Velocity - Amsterdam](http://velocityconf.com/devops-web-performance-eu-2015) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2015-10-10 - [Node.js conf Italy - Desenzano del Garda](http://www.nodejsconf.it/) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2015-06-26 - [KCDC - Kansas City](http://www.kcdc.info/) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2015-06-22 - [OpenTable Engineering Meetup - San Francisco](http://www.meetup.com/OpenTable-SF-Engineering/events/223292725/) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2015-05-27 - [LNUG, London](http://lnug.org/) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+* 2015-05-06 - [Api Days Mediterranea - Barcelona](http://mediterranea.apidays.io/) - OpenComponents as Microservices in the Front-end world (Matteo Figus)
+
+</details>
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
