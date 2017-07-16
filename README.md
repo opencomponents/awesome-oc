@@ -52,7 +52,9 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 ## Events
 
-* 2017-09-22/23 - [FrontEnd Connect 2017 - Warsaw](http://frontend-con.io/) - Breaking the frontend monolith (Nick Balestra)
+* 2017-09-22/23 - [FrontEnd Connect 2017 - Warsaw, Poland](http://frontend-con.io/) - Breaking the frontend monolith (Nick Balestra)
+* 2017-09-28/30 - [React Alicante 2017 - Alicante, Spain](http://reactalicante.es/) - Deploying atomic design system at scale with OpenComponents (Nick Balestra)
+
 
 <details><summary>Past Events</summary>
 
