@@ -48,6 +48,7 @@ A collection of awesome resources about OpenComponents (aka OC). Please read the
 
 * [OpenComponents at JSConf Uruguay](https://www.youtube.com/watch?v=M4OXXRdCpyQ) - by **Matteo Figus** [34:12]
 * [Learning about OpenComponents at OpenTable](https://vimeo.com/203926042) - 3 talks by **Nick Balestra, Charles Chu, Kevin Andrews** [1:35:42]
+* [ OpenComponents for a Decentralized Front-end Architecture at FullStack Conf](https://skillsmatter.com/skillscasts/10577-lightning-talk-opencomponents-for-a-decentralized-front-end-architecture?utm_content=buffer7c6b1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - by **Debopam Sengupta** [14:24]
 
 ## Events
 
